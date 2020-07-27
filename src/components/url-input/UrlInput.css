@@ -1,0 +1,14 @@
+.urlInput{
+  input[name='body'] {
+    height: 25vh;
+    width: 50vw
+  }
+  input[name='url'] {
+    height: 5vh;
+    width: 50vw;
+  }
+
+  section{
+    margin-top: 10px;
+  }
+}

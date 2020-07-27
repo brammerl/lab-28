@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main container renders the entire app 1`] = `
+<div>
+  <UrlInput
+    body=""
+    onChange={[Function]}
+    onSubmit={[Function]}
+    url=""
+  />
+  <ResponseSection
+    display={
+      Object {
+        "Hi": "Please make a request",
+      }
+    }
+  />
+</div>
+`;

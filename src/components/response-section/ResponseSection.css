@@ -1,0 +1,7 @@
+.ResponseSection {
+  section {
+    border: 1px solid black;
+    background: white;
+    height: 50vh;
+  }
+}
